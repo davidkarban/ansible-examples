@@ -1,2 +1,2 @@
-ansible-examples-2
-==================
+ansible-examples
+================
